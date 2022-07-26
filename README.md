@@ -12,7 +12,10 @@ __________________________________________
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
 
 ### Tempo Ciclo médio por sprint
+![image](https://user-images.githubusercontent.com/53669772/181079624-647a0ac2-468e-40b6-820e-11ba2ac66155.png)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20geom%20point.jpg)
+
+![image](https://user-images.githubusercontent.com/53669772/181079428-cdc96c4b-03f9-4866-b015-4b2207d3febf.png)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20box%20plot.jpg)
 
 ### Lead Time por item por sprint
