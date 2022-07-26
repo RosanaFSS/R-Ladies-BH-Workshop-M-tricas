@@ -10,8 +10,11 @@ Facilitadora = Rosana Santos
 
 :heavy_minus_sign:  A última parte de nossa agenda será a análise no R Studio de uma base de dados criada por mim.
 <br />
-R Studio <[https://www.atlassian.com/university](https://www.rstudio.com/)>
-Base de dados <[https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv]>
+:heavy_minus_sign: Instalando R <https://www.youtube.com/watch?v=6iZj3k9EBc4>
+<br />
+:heavy_minus_sign: R Studio <[https://www.atlassian.com/university](https://www.rstudio.com/)>
+<br />
+:heavy_minus_sign: Base de dados <[https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv]>
 <br />
 <br />
 
