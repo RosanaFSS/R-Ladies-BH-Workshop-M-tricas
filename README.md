@@ -19,6 +19,7 @@ __________________________________________
 <br />
 <br />
 ## Métricas
+São medidas usadas para avaliar o progresso em relação aos _objetivos_.
 ![Métricas)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/M%C3%A9tricas.jpg)
 
 ## 4 Métricas de Fluxo
