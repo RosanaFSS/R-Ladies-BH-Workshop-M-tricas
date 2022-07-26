@@ -22,10 +22,13 @@ Facilitadora = Rosana Santos
 <br />
 <br />
 ## 4 Métricas de Fluxo
-## Tempo Ciclo (Cycle Time)  |  Idade do Item (Work Item Age)  |  Vazão (Throughput)  |  WIP (Work in Progress, Trabalho em Progresso
-<br />
-<br />
-<br />
+## | Tempo Ciclo (Cycle Time)  
+## | Idade do Item (Work Item Age)
+## | Vazão (Throughput)  
+## | WIP (Work in Progress, Trabalho em Progresso
+
+
+
 ### Tempo Ciclo (Cycle Time)
 ![image](https://user-images.githubusercontent.com/53669772/181079088-cf7e59df-7066-45e8-9449-ec3a1c0ce9c4.png)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
