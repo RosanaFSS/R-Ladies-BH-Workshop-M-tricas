@@ -1,7 +1,7 @@
 __________________________________________
 
 # R-Ladies Belo Horizonte
-# Como plotar métricas para entregar valor para o seu time
+# Workshop: Como plotar métricas para entregar valor para o seu time
 30/ Jul/2022
 
 \
