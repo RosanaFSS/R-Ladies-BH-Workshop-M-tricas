@@ -17,7 +17,7 @@ Facilitadora = Rosana Santos
 <br />
 :heavy_minus_sign: R Studio, site oficial       <[https://www.atlassian.com/university](https://www.rstudio.com/)>
 <br />
-:heavy_minus_sign: Base de dados para o mão na massa <https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv>
+:heavy_minus_sign: Base de dados para o mão na massa < https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv >
 <br />
 <br />
 <br />
