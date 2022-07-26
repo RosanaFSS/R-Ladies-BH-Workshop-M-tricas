@@ -10,7 +10,6 @@ Facilitadora = Rosana Santos
 
 :heavy_minus_sign:  A última parte de nossa agenda será a análise no R Studio de uma base de dados criada por mim.
 [R Studio]<[https://www.atlassian.com/university](https://www.rstudio.com/)>
-[Base de Dados]([https://www.atlassian.com/university](https://www.rstudio.com/))
 <br />
 <br />
 
