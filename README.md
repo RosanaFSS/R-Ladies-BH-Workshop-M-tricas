@@ -38,7 +38,7 @@ Tempo entre a solicitação e o desenvolvimento do item.
 
 
 ### Vazão (Throughput)
-![Vazão (Throughput)]()
+![Vazão (Throughput)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Vaz%C3%A3o.jpg)
 
 ![Vazão (Throughput)]()
 
