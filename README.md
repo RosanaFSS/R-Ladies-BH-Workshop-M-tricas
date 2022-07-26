@@ -8,6 +8,10 @@ Facilitadora = Rosana Santos
 \
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
+Na prática utilizaremos o R Studio para analisar uma base de dados desenvolvida por mim.
+R Studio
+Base de Dados
+
 ### Tempo Ciclo por item por sprint
 ![image](https://user-images.githubusercontent.com/53669772/181079088-cf7e59df-7066-45e8-9449-ec3a1c0ce9c4.png)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
