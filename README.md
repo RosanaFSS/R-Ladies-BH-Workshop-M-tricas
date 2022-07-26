@@ -2,9 +2,10 @@ __________________________________________
 
 # R-Ladies Belo Horizonte
 # Como plotar métricas para entregar valor para o seu time
-30/ Jul/2022
+
 
 Facilitadora = Rosana Santos
+30/Jul/2022
 \
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
