@@ -7,11 +7,15 @@ __________________________________________
 \
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
-### Tempo Ciclo, itens por sprint
+### Tempo Ciclo por item por sprint
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
 
 ### Tempo Ciclo médio por sprint
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20geom%20point.jpg)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20box%20plot.jpg)
 
+### Lead Time por item por sprint
+![TLead Time](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
 
+### Lead Time médio por sprint
+![TLead Time](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
