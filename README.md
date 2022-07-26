@@ -10,5 +10,8 @@ __________________________________________
 ### Tempo Ciclo, itens por sprint
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
 
+### Tempo Ciclo médio por sprint
+![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20geom%20point.jpg)
+![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20geom%20point.jpg)
 
-Day**09**  **#60daysofudacity**
+
