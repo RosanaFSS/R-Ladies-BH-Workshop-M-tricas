@@ -31,9 +31,18 @@ Facilitadora = Rosana Santos
 
 ![image](https://user-images.githubusercontent.com/53669772/181079428-cdc96c4b-03f9-4866-b015-4b2207d3febf.png)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20box%20plot.jpg)
+<br />
+<br />
+<br />
+### Idade do Item por item por sprint
+![Idade do Item](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item.jpg)
 
-
-
+### Idade do Item média por sprint
+![Idade do Item](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item.jpg)
+![Idade do Item](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item.jpg)
+<br />
+<br />
+<br />
 ### Lead Time por item por sprint
 ![image](https://user-images.githubusercontent.com/53669772/181079951-4800781a-8f9c-486e-abcf-8b3d912a25ea.png)
 ![Lead Time](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Lead%20Time.jpg)
