@@ -2,7 +2,7 @@ __________________________________________
 
 # R-Ladies Belo Horizonte
 # Como plotar métricas para entregar valor para o seu time
-26/ Jul/2022
+30/ Jul/2022
 
 \
 ![SQL](https://github.com/RosanaFSS/SQL/blob/main/Data%202.gif)
