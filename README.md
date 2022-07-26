@@ -10,16 +10,14 @@ Facilitadora = Rosana Santos
 
 :heavy_minus_sign:  A última parte de nossa agenda será a análise no R Studio de uma base de dados criada por mim.
 <br />
-:heavy_minus_sign: Instalando R <https://www.youtube.com/watch?v=6iZj3k9EBc4>
+:heavy_minus_sign: Instalando R com R-Ladies BH <https://www.youtube.com/watch?v=6iZj3k9EBc4>
 <br />
-:heavy_minus_sign: R Studio <[https://www.atlassian.com/university](https://www.rstudio.com/)>
+:heavy_minus_sign: R Studio, site oficial       <[https://www.atlassian.com/university](https://www.rstudio.com/)>
 <br />
-:heavy_minus_sign: Base de dados <[https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv]>
+:heavy_minus_sign: Base de dados para o mão na massa <[https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv]>
 <br />
 <br />
-
-Base de Dados
-
+<br />
 ### Tempo Ciclo por item por sprint
 ![image](https://user-images.githubusercontent.com/53669772/181079088-cf7e59df-7066-45e8-9449-ec3a1c0ce9c4.png)
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
