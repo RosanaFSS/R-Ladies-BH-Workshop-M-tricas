@@ -12,6 +12,6 @@ __________________________________________
 
 ### Tempo Ciclo médio por sprint
 ![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20geom%20point.jpg)
-![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20geom%20point.jpg)
+![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20box%20plot.jpg)
 
 
