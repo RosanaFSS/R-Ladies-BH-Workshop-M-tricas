@@ -19,13 +19,29 @@ __________________________________________
 <br />
 <br />
 ## 4 Métricas de Fluxo
+##  Vazão (Throughput) 
+Quantidade de itens entregues/ concluídos em um período.
+
 ##  Tempo Ciclo (Cycle Time)  
-##  Idade do Item (Work Item Age)
-##  Vazão (Throughput)  
+Tempo entre o início e o término do desenvolvimento do item, quando movemos o cartão de “em Progresso” para “Pronto”.
+
 ##  WIP (Work in Progress, Trabalho em Progresso
+Quantidade de itens em progresso e não concluídos.
+
+##  Idade do Item (Work Item Age)
+Tempo entre a solicitação e o desenvolvimento do item.
 
 
 
+### Vazão (Throughput)
+![Vazão (Throughput)]()
+
+![Vazão (Throughput)]()
+
+![Vazão (Throughput)]()
+<br />
+<br />
+<br />
 ### Tempo Ciclo (Cycle Time)
 ![image](https://user-images.githubusercontent.com/53669772/181079088-cf7e59df-7066-45e8-9449-ec3a1c0ce9c4.png)
 ![Tempo Ciclo (Cycle Time)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
@@ -35,6 +51,15 @@ __________________________________________
 
 ![image](https://user-images.githubusercontent.com/53669772/181079428-cdc96c4b-03f9-4866-b015-4b2207d3febf.png)
 ![Tempo Ciclo (Cycle Time)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo%2C%20box%20plot.jpg)
+<br />
+<br />
+<br />
+### WIP (Work in Progress, Trabalho em Progresso
+![WIP (Work in Progress, Trabalho em Progresso]()
+
+![VWIP (Work in Progress, Trabalho em Progresso)]()
+
+![WIP (Work in Progress, Trabalho em Progresso]()
 <br />
 <br />
 <br />
@@ -50,24 +75,8 @@ __________________________________________
 <br />
 <br />
 <br />
-### Vazão (Throughput)
-![Vazão (Throughput)]()
 
-![Vazão (Throughput)]()
 
-![Vazão (Throughput)]()
-<br />
-<br />
-<br />
-### WIP (Work in Progress, Trabalho em Progresso
-![WIP (Work in Progress, Trabalho em Progresso]()
-
-![VWIP (Work in Progress, Trabalho em Progresso)]()
-
-![WIP (Work in Progress, Trabalho em Progresso]()
-<br />
-<br />
-<br />
 ## Outras Métricas
 <br />
 ### Lead Time
