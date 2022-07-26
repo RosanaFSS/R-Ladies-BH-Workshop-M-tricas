@@ -5,6 +5,7 @@ __________________________________________
 
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Capa.jpg)
 \
+<img src="(https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg/)" style="float:right" />
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
 :heavy_minus_sign:  A última parte de nossa agenda será a análise no R Studio de uma base de dados criada por mim.
@@ -12,7 +13,6 @@ __________________________________________
 <br />
 :heavy_minus_sign: Instalando R com R-Ladies BH <https://www.youtube.com/watch?v=6iZj3k9EBc4>
 <br />
-<img src="(https://www.atlassian.com/university](https://www.rstudio.com/)" style="float:right" />
 :heavy_minus_sign: R Studio, site oficial       <[https://www.atlassian.com/university](https://www.rstudio.com/)>
 <br />
 :heavy_minus_sign: Base de dados para o mão na massa < https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/df_rladies.csv >
