@@ -23,7 +23,7 @@ São medidas usadas para avaliar o progresso em relação aos _objetivos_.
 ![Métricas)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/M%C3%A9tricas.jpg)
 
 ## 4 Métricas de Fluxo
-##  Vazão (Throughput) 
+##  1. Vazão (Throughput) 
 Quantidade de itens entregues/ concluídos em um período.
 
 ![Vazão (Throughput)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Vaz%C3%A3o.jpg)
@@ -35,7 +35,7 @@ Quantidade de itens entregues/ concluídos em um período.
 <br />
 <br />
 
-##  Tempo Ciclo (Cycle Time)  
+##  2. Tempo Ciclo (Cycle Time)  
 Tempo entre o início e o término do desenvolvimento do item, quando movemos o cartão de “em Progresso” para “Pronto”.
 
 ![image](https://user-images.githubusercontent.com/53669772/181079088-cf7e59df-7066-45e8-9449-ec3a1c0ce9c4.png)
@@ -49,7 +49,7 @@ Tempo entre o início e o término do desenvolvimento do item, quando movemos o 
 <br />
 <br />
 <br />
-##  WIP (Work in Progress, Trabalho em Progresso
+##  3. WIP (Work in Progress, Trabalho em Progresso
 Quantidade de itens em progresso e não concluídos.
 
 ![WIP (Work in Progress, Trabalho em Progresso]()
@@ -60,7 +60,7 @@ Quantidade de itens em progresso e não concluídos.
 <br />
 <br />
 <br />
-##  Idade do Item (Work Item Age)
+##  4. Idade do Item (Work Item Age)
 Tempo entre a solicitação e o desenvolvimento do item.
 
 ![image](https://user-images.githubusercontent.com/53669772/181088059-d0a7a720-296f-45d4-910b-e641ae9cc676.png)
