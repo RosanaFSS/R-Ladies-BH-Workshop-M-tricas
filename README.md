@@ -19,3 +19,4 @@ __________________________________________
 
 ### Lead Time médio por sprint
 ![Lead Time](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Lead%20Time.jpg)
+![Lead Time](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Lead%20Time%2C%20boxplot.jpg)
