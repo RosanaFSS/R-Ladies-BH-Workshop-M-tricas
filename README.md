@@ -7,6 +7,8 @@ __________________________________________
 \
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
-### Module 1 - Introduction to Databases
-18 Dec 2020 \
+### Tempo Ciclo
+![Tempo Ciclo](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
+
+
 Day**09**  **#60daysofudacity**
