@@ -4,10 +4,6 @@ __________________________________________
 # Como plotar métricas para entregar valor para o seu time
 
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Capa.jpg)
-
-Facilitadora = Rosana Santos
-<br />
-30/Jul/2022
 \
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
