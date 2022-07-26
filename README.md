@@ -22,10 +22,10 @@ Facilitadora = Rosana Santos
 <br />
 <br />
 ## 4 Métricas de Fluxo
-## | Tempo Ciclo (Cycle Time)  
-## | Idade do Item (Work Item Age)
-## | Vazão (Throughput)  
-## | WIP (Work in Progress, Trabalho em Progresso
+##  Tempo Ciclo (Cycle Time)  
+##  Idade do Item (Work Item Age)
+##  Vazão (Throughput)  
+##  WIP (Work in Progress, Trabalho em Progresso
 
 
 
