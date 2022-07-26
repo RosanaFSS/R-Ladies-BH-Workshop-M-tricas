@@ -3,7 +3,7 @@ __________________________________________
 # R-Ladies Belo Horizonte
 # Como plotar métricas para entregar valor para o seu time
 
-!(https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Capa.jpg)
+![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Capa.jpg)
 
 Facilitadora = Rosana Santos
 <br />
