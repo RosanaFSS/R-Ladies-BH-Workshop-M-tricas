@@ -10,6 +10,7 @@ Facilitadora = Rosana Santos
 
 :heavy_minus_sign:  A última parte de nossa agenda será a análise no R Studio de uma base de dados criada por mim.
 <br />
+<br />
 :heavy_minus_sign: Instalando R com R-Ladies BH <https://www.youtube.com/watch?v=6iZj3k9EBc4>
 <br />
 :heavy_minus_sign: R Studio, site oficial       <[https://www.atlassian.com/university](https://www.rstudio.com/)>
