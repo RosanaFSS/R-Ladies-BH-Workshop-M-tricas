@@ -33,10 +33,14 @@ Facilitadora = Rosana Santos
 <br />
 <br />
 <br />
-### Idade do Item por item por sprint (Aging)
+### Idade do Item (Aging)
+![image](https://user-images.githubusercontent.com/53669772/181088059-d0a7a720-296f-45d4-910b-e641ae9cc676.png)
 ![Idade do Item](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item.jpg)
 
+![image](https://user-images.githubusercontent.com/53669772/181087898-0708bc42-a88a-4147-8bc5-09feab782c80.png)
 ![Idade do Item](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item%2C%20geom%20point.jpg)
+
+![image](https://user-images.githubusercontent.com/53669772/181087641-8b5a5e89-028c-4e1c-8b9f-4a2f3e9c645f.png)
 ![Idade do Item]([g](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item%2C%20boxplot.jpg))
 <br />
 <br />
