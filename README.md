@@ -9,7 +9,8 @@ Facilitadora = Rosana Santos
 ![R-Ladies](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Agenda.jpg)
 
 :heavy_minus_sign:  A última parte de nossa agenda será a análise no R Studio de uma base de dados criada por mim.
-[R Studio]<[https://www.atlassian.com/university](https://www.rstudio.com/)>
+<br />
+R Studio <[https://www.atlassian.com/university](https://www.rstudio.com/)>
 <br />
 <br />
 
