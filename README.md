@@ -26,18 +26,6 @@ São medidas usadas para avaliar o progresso em relação aos _objetivos_.
 ##  Vazão (Throughput) 
 Quantidade de itens entregues/ concluídos em um período.
 
-##  Tempo Ciclo (Cycle Time)  
-Tempo entre o início e o término do desenvolvimento do item, quando movemos o cartão de “em Progresso” para “Pronto”.
-
-##  WIP (Work in Progress, Trabalho em Progresso
-Quantidade de itens em progresso e não concluídos.
-
-##  Idade do Item (Work Item Age)
-Tempo entre a solicitação e o desenvolvimento do item.
-
-
-
-### Vazão (Throughput)
 ![Vazão (Throughput)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Vaz%C3%A3o.jpg)
 
 ![Vazão (Throughput)]()
@@ -46,7 +34,10 @@ Tempo entre a solicitação e o desenvolvimento do item.
 <br />
 <br />
 <br />
-### Tempo Ciclo (Cycle Time)
+
+##  Tempo Ciclo (Cycle Time)  
+Tempo entre o início e o término do desenvolvimento do item, quando movemos o cartão de “em Progresso” para “Pronto”.
+
 ![image](https://user-images.githubusercontent.com/53669772/181079088-cf7e59df-7066-45e8-9449-ec3a1c0ce9c4.png)
 ![Tempo Ciclo (Cycle Time)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Tempo%20Ciclo.jpg)
 
@@ -58,7 +49,9 @@ Tempo entre a solicitação e o desenvolvimento do item.
 <br />
 <br />
 <br />
-### WIP (Work in Progress, Trabalho em Progresso
+##  WIP (Work in Progress, Trabalho em Progresso
+Quantidade de itens em progresso e não concluídos.
+
 ![WIP (Work in Progress, Trabalho em Progresso]()
 
 ![VWIP (Work in Progress, Trabalho em Progresso)]()
@@ -67,7 +60,9 @@ Tempo entre a solicitação e o desenvolvimento do item.
 <br />
 <br />
 <br />
-### Idade do Item (Work Item Age)
+##  Idade do Item (Work Item Age)
+Tempo entre a solicitação e o desenvolvimento do item.
+
 ![image](https://user-images.githubusercontent.com/53669772/181088059-d0a7a720-296f-45d4-910b-e641ae9cc676.png)
 ![Idade do Item (Work Item Age)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Idade%20do%20Item.jpg)
 
