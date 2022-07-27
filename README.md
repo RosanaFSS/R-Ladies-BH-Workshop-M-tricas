@@ -89,8 +89,12 @@ Tempo entre a solicitação e o desenvolvimento do item.
 <br />
 <br />
 
-## Apresentação
-![apresentação] (https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Rladies%20BH%2C%2030-julho-2022.pdf)
-
 ![image](https://user-images.githubusercontent.com/53669772/181080223-dc5718ed-9404-4bf1-8a21-97aff2840465.png)
 ![Lead Time](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Lead%20Time%2C%20boxplot.jpg)
+
+
+## Apresentação
+![apresentação](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Rladies%20BH%2C%2030-julho-2022.pdf)
+
+
+## Código
