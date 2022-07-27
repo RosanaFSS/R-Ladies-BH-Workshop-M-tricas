@@ -25,6 +25,7 @@ São medidas usadas para avaliar o progresso em relação aos _objetivos_.
 ## 4 Métricas de Fluxo
 ##  1. Vazão (Throughput) 
 Quantidade de itens entregues/ concluídos em um período.
+
 ![image](https://user-images.githubusercontent.com/53669772/181138110-cb9042fc-d911-4f3c-87c2-dbc893d83ddd.png)
 ![Vazão (Throughput)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Vaz%C3%A3o.jpg)
 
