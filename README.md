@@ -29,9 +29,7 @@ Quantidade de itens entregues/ concluídos em um período.
 ![image](https://user-images.githubusercontent.com/53669772/181138110-cb9042fc-d911-4f3c-87c2-dbc893d83ddd.png)
 ![Vazão (Throughput)](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Vaz%C3%A3o.jpg)
 
-![Vazão (Throughput)]()
 
-![Vazão (Throughput)]()
 <br />
 <br />
 <br />
@@ -55,9 +53,7 @@ Quantidade de itens em progresso e não concluídos.
 
 ![WIP (Work in Progress, Trabalho em Progresso]()
 
-![VWIP (Work in Progress, Trabalho em Progresso)]()
 
-![WIP (Work in Progress, Trabalho em Progresso]()
 <br />
 <br />
 <br />
@@ -94,7 +90,7 @@ Tempo entre a solicitação e o desenvolvimento do item.
 
 
 ## Apresentação
-![apresentação](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Rladies%20BH%2C%2030-julho-2022.pdf)
+
 <br />
 <br />
 <br />
