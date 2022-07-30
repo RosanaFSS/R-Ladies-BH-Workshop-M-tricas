@@ -90,7 +90,7 @@ Tempo entre a solicitação e o desenvolvimento do item.
 
 
 ## Apresentação
-
+![Apresentação](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Rladies%20BH%2C%2030-julho-2022.pdf)
 <br />
 <br />
 <br />
