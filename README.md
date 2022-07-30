@@ -53,10 +53,6 @@ Quantidade de itens em progresso e não concluídos.
 ![image](https://user-images.githubusercontent.com/53669772/181877008-d23da9e5-a32a-4c01-a8f7-fe7fb390f30e.png)
 ![image](https://user-images.githubusercontent.com/53669772/181877063-a0cdc605-eae3-43f5-8891-1d995a5a92a0.png)
 
-
-![WIP (Work in Progress, Trabalho em Progresso]()
-
-
 <br />
 <br />
 <br />
