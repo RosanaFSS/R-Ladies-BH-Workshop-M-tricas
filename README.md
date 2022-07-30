@@ -97,4 +97,4 @@ Tempo entre a solicitação e o desenvolvimento do item.
 
 
 ## Código
-![Código](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Metrics.R)
+![Código](https://github.com/RosanaFSS/R-Ladies-BH-Workshop-Metricas/blob/Base-de-dados/Metrics%20R%20Ladies%20BH%2030-julho.R)
